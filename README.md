@@ -22,5 +22,5 @@ The Books table stores information about books.
 -AuthorID
 -Description
 
-Author
+# Author
 Naledi Ndhlovu
