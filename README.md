@@ -8,8 +8,11 @@ and also SQL scripts that creates two tables, populates them with sample data, a
 The Authors table stores information about authors.
 
 -AuthorID
+
 -FirstName
+
 -LastName
+
 -Nationality
 
 
@@ -18,8 +21,11 @@ The Authors table stores information about authors.
 The Books table stores information about books.
 
 -BookID
--Titl
+
+-Title
+
 -AuthorID
+
 -Description
 
 # Author
